@@ -61,7 +61,7 @@ Programm beendet.
 ````
 Voraussetzungen
 
-    Java Development Kit (JDK) 11 oder höher
+Java Development Kit (JDK) 11 oder höher
 
 Lizenz
 
