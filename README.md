@@ -43,12 +43,12 @@ java com.example.MainApp
 ````
 
 Interaktion
-
-    Geben Sie zwei Tasten ein, wenn Sie dazu aufgefordert werden.
-    Geben Sie einen Hotkey ein.
-    Drücken Sie den Hotkey oder geben Sie exit ein, um das Programm zu beenden.
-    Wenn der Hotkey gedrückt wird, simuliert das Programm die Eingabe der beiden zuvor eingegebenen Tasten.
-
+```plaintext
+Geben Sie zwei Tasten ein, wenn Sie dazu aufgefordert werden.
+Geben Sie einen Hotkey ein.
+Drücken Sie den Hotkey oder geben Sie exit ein, um das Programm zu beenden.
+Wenn der Hotkey gedrückt wird, simuliert das Programm die Eingabe der beiden zuvor eingegebenen Tasten.
+````
 Beispiel
 ````bash
 Geben Sie die erste Taste ein: a
